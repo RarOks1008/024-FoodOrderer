@@ -1,2 +1,3 @@
-# 024-FoodOrderer
-App for ordering food made in React.
+# Food Orderer
+
+*App for ordering food made in React.*
